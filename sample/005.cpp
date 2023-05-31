@@ -6,6 +6,7 @@ bool check (int a, int A, int B);
 
 int main () {
     int  N, A, B, total;
+    int total = 0;
     cin >> N >> A >> B;
 
     for(int k=1; k<= N; ++k) {
