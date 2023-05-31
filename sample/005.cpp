@@ -5,7 +5,7 @@ using namespace std;
 bool check (int a, int A, int B);
 
 int main () {
-    int  N, A, B, total;
+    int  N, A, B;
     int total = 0;
     cin >> N >> A >> B;
 
